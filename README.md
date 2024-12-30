@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Varshith Mashetty, a Python and Front-end developer.  <br>💻 Experienced in creating projects like Tic Tac Toe, Music Player, and Covid-19 Tracker.  <br>🚀 Passionate about AI tools like Jarvis and web development with Flask and Django.  <br>🔍 Exploring research in Image Steganography and optimization techniques.  <br>🤝 Let’s connect and collaborate on exciting projects!  
+👋 Hi, I'm Varshith Mashetty, a Python and Front-end developer.  <br>💻 Experienced in creating android app projects like Tic Tac Toe, Music Player, and Covid-19 Tracker.  <br>🚀 Passionate about AI tools like Jarvis and web development with Flask and Django.  <br>🔍 Exploring research in Image Steganography and optimization techniques.  <br>🤝 Let’s connect and collaborate on exciting projects!  
 
 
 ## 🌐 Socials:
